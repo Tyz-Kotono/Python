@@ -1,0 +1,38 @@
+[
+    {
+        "Name": "NewRow",
+        "Event": "None",
+        "ID": false,
+        "Life": "(Event=None,ID=False,Time=(Event=None,ID=False))"
+    },
+    {
+        "Name": "NewRow_0",
+        "Event": "None",
+        "ID": false,
+        "Life": "(Event=None,ID=False,Time=(Event=None,ID=False))"
+    },
+    {
+        "Name": "NewRow_1",
+        "Event": "/Game/WwiseAudio/Events/Default_Work_Unit/UI/Play_BEEP_01.Play_BEEP_01",
+        "ID": false,
+        "Life": "(Event=None,ID=False,Time=(Event=None,ID=False))"
+    },
+    {
+        "Name": "NewRow_2",
+        "Event": "None",
+        "ID": false,
+        "Life": "(Event=None,ID=False,Time=(Event=None,ID=False))"
+    },
+    {
+        "Name": "NewRow_3",
+        "Event": "/Game/WwiseAudio/Events/Default_Work_Unit/UI/Play_BEEP_01.Play_BEEP_01",
+        "ID": false,
+        "Life": "(Event=None,ID=False,Time=(Event=None,ID=False))"
+    },
+    {
+        "Name": "NewRow_6",
+        "Event": "None",
+        "ID": false,
+        "Life": "(Event=None,ID=False,Time=(Event=None,ID=False))"
+    }
+]
